@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+h1 {
+  color: red;
+}
+
+.bigHead {
+  color: black !important;
+  font-size: 50px !important;
+}
+
+.chap {
+  height: 85px;
+}
+
+.chah1 {
+  margin-top: -10px;
+}
+
+.chapterHeader {
+  font-size: 40px !important;
+}
